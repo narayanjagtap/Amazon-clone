@@ -25,4 +25,4 @@ amazon-clone/
 - Inspired by the Amazon website.
 
 ## 📸 OutPut
-![Home](Inages/Amazon.png)
+![Amazon Clone](Images/Amazon.png)
