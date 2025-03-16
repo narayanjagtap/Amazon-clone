@@ -24,5 +24,5 @@ amazon-clone/
 ## Acknowledgements
 - Inspired by the Amazon website.
 
-## 📸 OutPut | [Live Demo](https://narayanjagtap.github.io/Amazon-clone/)
+## 📸 OutPut | <a href="https://narayanjagtap.github.io/Amazon-clone/" target="_blank">Amazon Clone Live Demo</a>
 ![Amazon Clone](Images/Amazon.png)
